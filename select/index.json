@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "La tormenta 2004",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-22T16:18:19.715426Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Después De La Tormenta",
+      "artist": "Saratoga",
+      "has_synced": true,
+      "path": "select/01_Después_De_La_Tormenta_Saratoga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Tormenta",
+      "artist": "Stravaganzza",
+      "has_synced": true,
+      "path": "select/02_La_Tormenta_Stravaganzza.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Tormenta (Original Version)",
+      "artist": "Zenobia",
+      "has_synced": true,
+      "path": "select/03_La_Tormenta_(Original_Version)_Zenobia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Tormenta",
+      "artist": "Zenobia feat. Víctor García & Warcry",
+      "has_synced": true,
+      "path": "select/04_La_Tormenta_Zenobia_feat._Víctor_García_&_Warcry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Tormenta (feat. Víctor García & Warcry)",
+      "artist": "Zenobia",
+      "has_synced": true,
+      "path": "select/05_La_Tormenta_(feat._Víctor_García_&_Warcry)_Zenobia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Tormenta",
+      "artist": "Lit Killah",
+      "has_synced": true,
+      "path": "select/06_La_Tormenta_Lit_Killah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Tormenta\u0000",
+      "artist": "Lit Killah\u0000",
+      "has_synced": true,
+      "path": "select/07_La_Tormenta\u0000_Lit_Killah\u0000.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tras la tormenta",
+      "artist": "Rubén Blades",
+      "has_synced": true,
+      "path": "select/08_Tras_la_tormenta_Rubén_Blades.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Tormenta De Arena",
+      "artist": "Dorian",
+      "has_synced": true,
+      "path": "select/09_La_Tormenta_De_Arena_Dorian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Tormenta",
+      "artist": "Aventura",
+      "has_synced": true,
+      "path": "select/10_La_Tormenta_Aventura.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ojo de la Tormenta",
+      "artist": "Soda Stereo",
+      "has_synced": true,
+      "path": "select/11_Ojo_de_la_Tormenta_Soda_Stereo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Tormenta",
+      "artist": "Alberto Pérez",
+      "has_synced": true,
+      "path": "select/12_La_Tormenta_Alberto_Pérez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La tormenta",
+      "artist": "Ayax y Prok feat. Sceno",
+      "has_synced": true,
+      "path": "select/13_La_tormenta_Ayax_y_Prok_feat._Sceno.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La tormenta",
+      "artist": "Prok [Producido por Sceno]",
+      "has_synced": true,
+      "path": "select/14_La_tormenta_Prok_[Producido_por_Sceno].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La tormenta de arena",
+      "artist": "Dorian",
+      "has_synced": true,
+      "path": "select/15_La_tormenta_de_arena_Dorian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Tormenta 2004",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_La_Tormenta_2004_嵐.txt"
+    }
+  ]
+}
